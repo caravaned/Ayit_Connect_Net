@@ -34,7 +34,7 @@ pip install requests
 ​	新建txt填入下面一行，后缀改为bat或cmd，把bat/cmd文件丢到上面的启动文件夹
 
 ```
-start python X:\你的py文件路径\Connect_Net.py
+start pythonw X:\你的py文件路径\Connect_Net.py
 ```
 
 
