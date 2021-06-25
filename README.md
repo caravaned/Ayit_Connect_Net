@@ -5,6 +5,7 @@
 ## 安阳工学院自动连接校园网
 
 随便摸了个py，  宿舍测试可用，回头去教室试试
+
 更新：教室也可用  不过好像没用的必要。。。
 
 # [post版](https://github.com/caravaned/Ayit_Connect_Net/blob/main/Connect_Net.py)
